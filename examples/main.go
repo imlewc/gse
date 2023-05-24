@@ -6,9 +6,9 @@ import (
 	"log"
 	"regexp"
 
-	"github.com/go-ego/gse"
-	"github.com/go-ego/gse/hmm/idf"
-	"github.com/go-ego/gse/hmm/pos"
+	"github.com/imlewc/gse"
+	"github.com/imlewc/gse/hmm/idf"
+	"github.com/imlewc/gse/hmm/pos"
 )
 
 var (

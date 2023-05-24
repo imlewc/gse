@@ -4,8 +4,8 @@ import (
 	"math"
 	"sort"
 
-	"github.com/go-ego/gse"
-	"github.com/go-ego/gse/hmm/pos"
+	"github.com/imlewc/gse"
+	"github.com/imlewc/gse/hmm/pos"
 )
 
 const dampingFactor = 0.85

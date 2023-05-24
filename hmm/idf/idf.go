@@ -17,7 +17,7 @@ package idf
 import (
 	"sort"
 
-	"github.com/go-ego/gse"
+	"github.com/imlewc/gse"
 )
 
 // Idf type a dictionary for all words with the

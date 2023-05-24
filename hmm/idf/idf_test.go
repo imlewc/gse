@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/go-ego/gse"
+	"github.com/imlewc/gse"
 	"github.com/vcaesar/tt"
 )
 
