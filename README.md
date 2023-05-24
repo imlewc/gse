@@ -1,5 +1,5 @@
+**Fix Idf seg dict path can not use bug**
 # gse
-
 Go efficient multilingual NLP and text segmentation; support English, Chinese, Japanese and others.
 And supports with [elasticsearch](https://github.com/vcaesar/go-gse-elastic) and [bleve](https://github.com/vcaesar/gse-bleve).
 
