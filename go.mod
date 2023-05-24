@@ -1,4 +1,4 @@
-module github.com/go-ego/gse
+module github.com/imlewc/gse
 
 go 1.17
 
